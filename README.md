@@ -18,7 +18,8 @@
 - 📱 iOS App Development (Swift, Xcode)
 - 📱 android development
 - 📱 reverse engenering
-- 🌐 web3 development 
+- 🌐 web3 development
+- iot development
 
 ---
 
