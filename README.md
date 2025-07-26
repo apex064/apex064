@@ -15,7 +15,10 @@
 - 🖥️ Backend Development (Python, JavaScript, Django, Flask, Node.js)  
 - 🔗 API Development & Integration (RESTful APIs)  
 - 🌐 Full-Stack Web Apps (React, HTML, CSS, Tailwind)  
-- 📱 iOS App Development (Swift, Xcode)  
+- 📱 iOS App Development (Swift, Xcode)
+- 📱 android development
+- 📱 reverse engenering
+- 🌐 web3 development 
 
 ---
 
