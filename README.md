@@ -26,7 +26,7 @@
 
 - 📍 I'm based in **Nigeria**  
 - 📧 Reach me at: [chimanov2005@gmail.com](mailto:chimanov2005@gmail.com)  
-- 🧠 Currently learning: **Python**  
+- 🧠 senior python developer 
 - 🤝 Open to collaborating on **AI-based projects**  
 - 🎮 Fun fact: I love to play games!
 
