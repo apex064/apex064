@@ -19,7 +19,7 @@
 - 📱 android development
 - 📱 reverse engenering
 - 🌐 web3 development
-- iot development
+- 🛠️ iot development
 
 ---
 
