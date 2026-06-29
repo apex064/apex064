@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm apex064</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apex064&label=Profile%20views&color=0e75b6&style=flat" alt="apex064" /> </p>
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/137466911?v=4" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apex064" alt="apex064" /></a> </p>
 
